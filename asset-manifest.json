@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jawahar-lee/Jawahar-FEWD-CA5.git/static/css/main.69790285.css",
+    "main.js": "/jawahar-lee/Jawahar-FEWD-CA5.git/static/js/main.2e10d20f.js",
+    "static/js/787.36ae8d7f.chunk.js": "/jawahar-lee/Jawahar-FEWD-CA5.git/static/js/787.36ae8d7f.chunk.js",
+    "index.html": "/jawahar-lee/Jawahar-FEWD-CA5.git/index.html",
+    "main.69790285.css.map": "/jawahar-lee/Jawahar-FEWD-CA5.git/static/css/main.69790285.css.map",
+    "main.2e10d20f.js.map": "/jawahar-lee/Jawahar-FEWD-CA5.git/static/js/main.2e10d20f.js.map",
+    "787.36ae8d7f.chunk.js.map": "/jawahar-lee/Jawahar-FEWD-CA5.git/static/js/787.36ae8d7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69790285.css",
+    "static/js/main.2e10d20f.js"
+  ]
+}
